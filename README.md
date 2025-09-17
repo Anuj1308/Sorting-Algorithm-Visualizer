@@ -28,7 +28,7 @@ Ensure you have **Python 3.6+** and the following libraries:
 
 Install missing libraries with:
 ```bash
-pip install matplotlib numpy
+pip install tkinter matplotlib numpy
 ```
 
 ### 2. Run the Visualizer
