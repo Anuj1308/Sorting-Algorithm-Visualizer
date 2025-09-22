@@ -1,10 +1,10 @@
-# 🔄 Advanced Sorting Algorithm Visualizer
+#Advanced Sorting Algorithm Visualizer
 
 A professional, feature-rich, and educational Python tool to **visualize sorting algorithms** in real time using an interactive and modern UI with tkinter and matplotlib. Designed for students, teachers, interview preparation, and data structure enthusiasts.
 
 ---
 
-## ✨ Features
+##Features
 
 - **Real-Time Sorting Animation**: Visualize each step of Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, and Selection Sort
 - **Matplotlib Integration**: Professional bar chart animation embedded in the tkinter GUI
@@ -17,7 +17,7 @@ A professional, feature-rich, and educational Python tool to **visualize sorting
 
 ---
 
-## 🚀 Getting Started
+##Getting Started
 
 ### 1. Prerequisites
 
@@ -38,7 +38,7 @@ python advanced_sorting_visualizer.py
 
 ---
 
-## 📚 Usage
+##Usage
 
 1. **Select Algorithm**: Choose from Bubble, Quick, Merge, Insertion, or Selection sort
 2. **Adjust Settings**: Set array size (10-200) and animation speed (1-500ms)
@@ -48,7 +48,7 @@ python advanced_sorting_visualizer.py
 
 ---
 
-## 📊 Supported Algorithms
+##Supported Algorithms
 
 | Algorithm        | Average Time   | Worst Case    | Space    | Stable?  |
 |------------------|---------------|--------------|----------|----------|
@@ -58,6 +58,3 @@ python advanced_sorting_visualizer.py
 | Insertion Sort   | O(n²)         | O(n²)        | O(1)     | Yes      |
 | Selection Sort   | O(n²)         | O(n²)        | O(1)     | No       |
 
-
-
-**Happy Learning & Coding!** 🚀🎓
